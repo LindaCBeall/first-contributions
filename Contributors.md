@@ -47,6 +47,7 @@
 - [Abilash Menon](https://github.com/abilash13)
 - [Ben Shew](https://github.com/ben9105)
 - [Hunter Wallace](https://github.com/Hjwallace)
+- [Linda Beall] (https://github.com/LindaCBeall)
 - [Salvatore Spagnuolo](https://github.com/Tore95)
 - [jack hu](https://github.com/jackhub)
 - [vibhasi
